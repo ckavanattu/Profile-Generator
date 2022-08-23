@@ -1,0 +1,29 @@
+{
+  "name": "profile-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ckavanattu/Profile-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ckavanattu/Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/ckavanattu/Profile-Generator#readme",
+  "devDependencies": {
+    "jes": "^0.6.1"
+  },
+  "dependencies": {
+    "inquirer": "^9.1.0"
+  }
+}
