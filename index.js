@@ -1,7 +1,7 @@
 const fs = require('fs');
 const inquirer = require('inquirer');
 
-const generatePage = require('./src/page-template.js');
+const generatePage = require('./src/generateHTML.js');
 
 //team members
 const Manager = require('./lib/Manager');
